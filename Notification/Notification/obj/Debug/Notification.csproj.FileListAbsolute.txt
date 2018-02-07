@@ -1,0 +1,8 @@
+c:\users\ok\documents\visual studio 2015\Projects\Notification\Notification\bin\Debug\Notification.dll
+c:\users\ok\documents\visual studio 2015\Projects\Notification\Notification\bin\Debug\Notification.pdb
+c:\users\ok\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.csprojResolveAssemblyReference.cache
+c:\users\ok\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.dll
+c:\users\ok\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.pdb
+c:\users\ok\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.Properties.Resources.resources
+c:\users\ok\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.csproj.GenerateResource.Cache
+c:\users\ok\documents\visual studio 2015\Projects\Notification\Notification\obj\Debug\Notification.NotificationForm.resources

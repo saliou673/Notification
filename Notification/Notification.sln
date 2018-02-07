@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notification", "Notification\Notification.csproj", "{6D48A52F-5CBE-4E62-A719-0350D40D53CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationFormTest", "NotificationFormTest\NotificationFormTest.csproj", "{F560C0AA-A373-465B-820E-86C050EF4EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D48A52F-5CBE-4E62-A719-0350D40D53CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D48A52F-5CBE-4E62-A719-0350D40D53CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D48A52F-5CBE-4E62-A719-0350D40D53CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D48A52F-5CBE-4E62-A719-0350D40D53CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F560C0AA-A373-465B-820E-86C050EF4EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F560C0AA-A373-465B-820E-86C050EF4EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F560C0AA-A373-465B-820E-86C050EF4EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F560C0AA-A373-465B-820E-86C050EF4EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
